@@ -3,6 +3,7 @@ Collect and archive the CALIX AXOS configuration in a hierarchical manner
 
 I find it useful to save the AXOS configure in chunks - facilitates configuration compliance, and is useful in a lab.
 
+<pre>
 admin@ub-hmsrv4:~/PY$ python3 ./calix_get_config_by_hier.py
 2023-03-15 16:29:36,859 root         INFO     Script is starting
 2023-03-15 16:29:36,859 root         INFO     Get target input variables
@@ -387,3 +388,4 @@ admin@ub-hmsrv4:~/PY$ tree ./boron/
 
 121 directories, 121 files
 admin@ub-hmsrv4:~/PY$ 
+</pre>
