@@ -1,4 +1,4 @@
-# -calix_get_config_by_hier
+# calix_get_config_by_hier
 Collect and archive the CALIX AXOS configuration in a hierarchical manner
 
 I find it useful to save the AXOS configure in chunks - facilitates configuration compliance, and is useful in a lab.
