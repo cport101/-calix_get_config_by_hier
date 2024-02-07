@@ -37,6 +37,11 @@ Changes:
 10MAR23:
 --------
 0. Conception
+
+07FEB24:
+--------
+1. [Function 3] cmd_n0 = ('terminal screen-length 250') || Changed from 150 to 250 
+
 """
 
 
