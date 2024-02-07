@@ -129,7 +129,7 @@ def ssh_interact(host_name, user_name, pass_word, port):
     ##################################################
     root_prompt = '.*# '
     ques_mark = '\x3F'
-    cmd_n0 = ('terminal screen-length 150')
+    cmd_n0 = ('terminal screen-length 250')
     cmd_n1 = (f'show running-config {ques_mark}')
     special_prompt = (f'{root_prompt}show running-config ')
     try:
