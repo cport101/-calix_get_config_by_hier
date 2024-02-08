@@ -9,7 +9,7 @@ __license__ = "GPL"
 __version__ = "0.0.0"
 __modified__ = 07FEB24
 __maintainer__ = "TBD"
-__email__ = "charles.port@calix.com"
+__email__ = "cport@rawbw.com"
 __status__ = "Test"
 
 TERMS AND CONDITIONS FOR USE
